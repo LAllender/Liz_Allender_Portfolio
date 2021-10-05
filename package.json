@@ -1,0 +1,25 @@
+{
+  "name": "Liz_Allender_Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAllender/Liz_Allender_Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LAllender/Liz_Allender_Portfolio/issues"
+  },
+  "homepage": "https://github.com/LAllender/Liz_Allender_Portfolio#readme",
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "*"
+  }
+}
